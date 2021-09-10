@@ -2,6 +2,6 @@
 ## Title: EverlookXP
 ## Author: acidtib#7953
 ## Version: 1.0
-## Notes: Change XP Rate to 5x when on Everlook-WoW
+## Notes: Change XP Rate to 5x when playing on Everlook-WoW
 
 EverlookXP.lua
