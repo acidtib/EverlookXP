@@ -28,8 +28,6 @@ function EverlookXP:CHAT_MSG_CHANNEL_NOTICE()
   -- check that we have the correct realm
   -- check if player joined the general channel
   if event == "CHAT_MSG_CHANNEL_NOTICE" and Current_Realm == Accepted_Realm and arg1 == "YOU_JOINED" and arg8 == General_Channel and XP_Set == false then
-    EverlookXP:Say("EverlookXP: Setting XP Rate to "..XP_Rate.."x on realm "..Current_Realm)
-
     -- try to set XP_Weekend_Rate
     EverlookXP:Set_XP(XP_Weekend_Rate)
   end
