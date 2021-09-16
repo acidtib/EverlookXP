@@ -1,7 +1,18 @@
 ## Interface: 11200
 ## Title: EverlookXP
 ## Author: acidtib#7953
-## Version: 1.1
+## Version: 2.0
 ## Notes: Change XP Rate to 5x when playing on Everlook-WoW
+## OptionalDeps: Ace2
+## SavedVariables: EverlookXPDB
+
+
+libs\AceLibrary\AceLibrary.lua
+libs\AceOO-2.0\AceOO-2.0.lua
+libs\AceAddon-2.0\AceAddon-2.0.lua
+libs\AceDB-2.0\AceDB-2.0.lua
+libs\AceConsole-2.0\AceConsole-2.0.lua
+libs\AceEvent-2.0\AceEvent-2.0.lua
+libs\AceDebug-2.0\AceDebug-2.0.lua
 
 EverlookXP.lua
