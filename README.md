@@ -1,6 +1,7 @@
 # EverlookXP
 
-This addon can automatically set XP Rate to 5x when playing on [Everlook-WoW](https://everlook-wow.com/).
+This addon automatically sets XP Rate to 5x when playing on [Everlook-WoW](https://everlook-wow.com/).
+Also tries to set XP Rate to 7x when its enable on the server.
 
 ## Installation (Vanilla, 1.12)
 1. Download **[Latest Version](https://github.com/arubinofaux/EverlookXP/archive/main.zip)**
